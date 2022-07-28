@@ -1,1 +1,1 @@
-# Flappybird_game_c
+# Flappybird_game_c++
